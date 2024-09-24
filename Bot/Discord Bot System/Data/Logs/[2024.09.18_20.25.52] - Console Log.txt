@@ -1,0 +1,8 @@
+[18.09.2024 20:20:52] 20:20:52 Discord     Discord.Net v3.15.3 (API v10)
+[18.09.2024 20:20:52] Error loading plugin from C:\Users\Arda Karaman\Desktop\Bot\Discord Bot System\plugins\AdmiralSunk.dll: İstenilen türlerden biri veya daha fazlası yüklenemedi. Daha fazla bilgi için LoaderExceptions özelliğini alın.
+[18.09.2024 20:20:52] Error loading plugin from C:\Users\Arda Karaman\Desktop\Bot\Discord Bot System\plugins\CommandPlugin.dll: İstenilen türlerden biri veya daha fazlası yüklenemedi. Daha fazla bilgi için LoaderExceptions özelliğini alın.
+[18.09.2024 20:20:52] 20:20:52 Gateway     Connecting
+[18.09.2024 20:20:53] 20:20:53 Gateway     You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+[18.09.2024 20:20:53] 20:20:53 Gateway     Connected
+[18.09.2024 20:20:54] Bot is connected!
+[18.09.2024 20:20:54] 20:20:54 Gateway     Ready

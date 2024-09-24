@@ -1,0 +1,9 @@
+[18.09.2024 20:45:27] 20:45:27 Discord     Discord.Net v3.15.3 (API v10)
+[18.09.2024 20:45:27] Ready Command Test Plugin
+[18.09.2024 20:45:27] 20:45:27 Gateway     Connecting
+[18.09.2024 20:45:28] 20:45:28 Gateway     You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+[18.09.2024 20:45:28] 20:45:28 Gateway     Connected
+[18.09.2024 20:45:28] Bot is connected!
+[18.09.2024 20:45:28] 20:45:28 Gateway     Ready
+[18.09.2024 20:45:29] Deleted all existing global commands.
+[18.09.2024 20:45:29] Registered global command hello from plugin commandplugin.dll.

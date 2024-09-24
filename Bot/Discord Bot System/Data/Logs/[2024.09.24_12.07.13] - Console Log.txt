@@ -1,0 +1,8 @@
+[24.09.2024 12:02:12] 12:02:12 Discord     Discord.Net v3.16.0 (API v10)
+[24.09.2024 12:02:13] Ready Command Test Plugin
+[24.09.2024 12:02:13] 12:02:13 Gateway     Connecting
+[24.09.2024 12:02:13] Error registering global slash commands: The server responded with error 405: 405: Method Not Allowed
+[24.09.2024 12:02:14] 12:02:14 Gateway     You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+[24.09.2024 12:02:14] 12:02:14 Gateway     Connected
+[24.09.2024 12:02:14] Bot is connected!
+[24.09.2024 12:02:14] 12:02:14 Gateway     Ready

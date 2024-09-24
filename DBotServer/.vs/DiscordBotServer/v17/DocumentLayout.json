@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|c:\\users\\arda karaman\\documents\\repos\\dbotserver\\dbotserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|solutionrelative:dbotserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\dbotserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|solutionrelative:dbotserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\dbotserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|solutionrelative:dbotserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|c:\\users\\arda karaman\\documents\\repos\\dbotserver\\dbotserver\\embeddedresource\\iconhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|solutionrelative:dbotserver\\embeddedresource\\iconhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|c:\\users\\arda karaman\\documents\\repos\\dbotserver\\dbotserver\\pluginloader\\pluginloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|solutionrelative:dbotserver\\pluginloader\\pluginloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DB3064-4BAA-4F7E-8A50-A82A56BAFDAF}|IPlugin\\IPlugin.csproj|C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\iplugin\\iplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DB3064-4BAA-4F7E-8A50-A82A56BAFDAF}|IPlugin\\IPlugin.csproj|solutionrelative:iplugin\\iplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\DBotServer\\Program.cs",
+              "RelativeDocumentMoniker": "DBotServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\DBotServer\\Program.cs",
+              "RelativeToolTip": "DBotServer\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:54:41.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IconHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\DBotServer\\EmbeddedResource\\IconHelper.cs",
+              "RelativeDocumentMoniker": "DBotServer\\EmbeddedResource\\IconHelper.cs",
+              "ToolTip": "C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\DBotServer\\EmbeddedResource\\IconHelper.cs",
+              "RelativeToolTip": "DBotServer\\EmbeddedResource\\IconHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:32:46.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\IPlugin\\IPlugin.cs",
+              "RelativeDocumentMoniker": "IPlugin\\IPlugin.cs",
+              "ToolTip": "C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\IPlugin\\IPlugin.cs",
+              "RelativeToolTip": "IPlugin\\IPlugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:56:50.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PluginLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\DBotServer\\PluginLoader\\PluginLoader.cs",
+              "RelativeDocumentMoniker": "DBotServer\\PluginLoader\\PluginLoader.cs",
+              "ToolTip": "C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\DBotServer\\PluginLoader\\PluginLoader.cs",
+              "RelativeToolTip": "DBotServer\\PluginLoader\\PluginLoader.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAowIIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:38:47.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\DBotServer\\Form1.cs",
+              "RelativeDocumentMoniker": "DBotServer\\Form1.cs",
+              "ToolTip": "C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\DBotServer\\Form1.cs",
+              "RelativeToolTip": "DBotServer\\Form1.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAASwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:15:04.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\DBotServer\\Form1.cs",
+              "RelativeDocumentMoniker": "DBotServer\\Form1.cs",
+              "ToolTip": "C:\\Users\\Arda Karaman\\Documents\\repos\\DBotServer\\DBotServer\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DBotServer\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:15:00.007Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

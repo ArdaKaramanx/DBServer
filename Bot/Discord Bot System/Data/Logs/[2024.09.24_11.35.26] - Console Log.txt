@@ -1,0 +1,10 @@
+[24.09.2024 11:30:26] 11:30:26 Discord     Discord.Net v3.16.0 (API v10)
+[24.09.2024 11:30:26] Ready Command Test Plugin
+[24.09.2024 11:30:26] 11:30:26 Gateway     Connecting
+[24.09.2024 11:30:27] Error registering global slash commands: The server responded with error 50035: Invalid Form Body
+Inner Errors:
+NUMBER_TYPE_COERCE: Value "commands" is not snowflake.
+[24.09.2024 11:30:27] 11:30:27 Gateway     You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+[24.09.2024 11:30:27] 11:30:27 Gateway     Connected
+[24.09.2024 11:30:28] Bot is connected!
+[24.09.2024 11:30:28] 11:30:28 Gateway     Ready
