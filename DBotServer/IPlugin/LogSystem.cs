@@ -1,5 +1,5 @@
 ﻿using Discord;
-using DBotServer;
+using DiscordBotServer;
 
 public static class LogSystem
 {

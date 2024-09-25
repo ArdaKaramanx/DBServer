@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DBotServer
+namespace DiscordBotServer
 {
     public partial class Form1 : Form
     {
@@ -202,6 +202,9 @@ namespace DBotServer
 
                 richTextBoxConsole.SelectionStart = richTextBoxConsole.Text.Length;
                 richTextBoxConsole.SelectionColor = richTextBoxConsole.ForeColor;
+
+                richTextBoxConsole.SelectionStart = richTextBoxConsole.Text.Length;
+                richTextBoxConsole.ScrollToCaret();
             }
         }
 

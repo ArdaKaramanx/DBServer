@@ -95,10 +95,11 @@ C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\bin\x64\Re
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\bin\x64\Release\System.Threading.Tasks.Extensions.xml
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\bin\x64\Release\System.ValueTuple.xml
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordBotServer.csproj.AssemblyReference.cache
-C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DBotServer.Form1.resources
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordBotServer.Properties.Resources.resources
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordBotServer.csproj.GenerateResource.cache
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordBotServer.csproj.CoreCompileInputs.cache
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordB.5906C81B.Up2Date
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordBotServer.exe
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordBotServer.pdb
+C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordBotServer.Form1.resources
+C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordBotServer.UpdaterForm.resources

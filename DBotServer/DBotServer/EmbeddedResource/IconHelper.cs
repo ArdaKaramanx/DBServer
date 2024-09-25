@@ -3,24 +3,27 @@ using System.Drawing;
 using System.IO;
 using System.Reflection;
 
-public class IconHelper
+namespace DiscordBotServer
 {
-    public static Icon GetEmbeddedIcon(string resourceName)
+    public class IconHelper
     {
-        // Assembly'i alıyoruz
-        var assembly = Assembly.GetExecutingAssembly();
-
-        // İkonu kaynaklardan (resources) çekiyoruz
-        using (Stream stream = assembly.GetManifestResourceStream(resourceName))
+        public static Icon GetEmbeddedIcon(string resourceName)
         {
-            if (stream != null)
+            // Assembly'i alıyoruz
+            var assembly = Assembly.GetExecutingAssembly();
+
+            // İkonu kaynaklardan (resources) çekiyoruz
+            using (Stream stream = assembly.GetManifestResourceStream(resourceName))
             {
-                return new Icon(stream);
-            }
-            else
-            {
-                throw new FileNotFoundException($"Kaynak bulunamadı: {resourceName}");
+                if (stream != null)
+                {
+                    return new Icon(stream);
+                }
+                else
+                {
+                    throw new FileNotFoundException($"Kaynak bulunamadı: {resourceName}");
+                }
             }
         }
-    }
+    } 
 }
