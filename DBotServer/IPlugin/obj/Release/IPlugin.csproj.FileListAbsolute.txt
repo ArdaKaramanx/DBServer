@@ -58,7 +58,6 @@ C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\D
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\Discord.Net.Rest.dll
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\Discord.Net.Webhook.dll
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\Discord.Net.WebSocket.dll
-C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\DiscordBotServer.exe
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\Newtonsoft.Json.dll
@@ -92,3 +91,4 @@ C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\S
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\System.Threading.Tasks.Extensions.xml
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\System.ValueTuple.xml
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\obj\Release\IPlugin.csproj.Up2Date
+C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\DiscordBotServer.dll

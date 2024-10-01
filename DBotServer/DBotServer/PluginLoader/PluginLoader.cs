@@ -19,8 +19,8 @@ namespace DiscordBotServer
         public PluginLoader(string pluginsPath)
         {
             _pluginsPath = pluginsPath;
-            LoadPlugins(pluginsPath, Form1.instance._client);
-            Form1.instance._client.SlashCommandExecuted += HandleCommandExecuted;
+            LoadPlugins(pluginsPath, ServerConsole.instance._client);
+            ServerConsole.instance._client.SlashCommandExecuted += HandleCommandExecuted;
         }
 
         public void LoadPlugins(string path, DiscordSocketClient client)
@@ -45,7 +45,7 @@ namespace DiscordBotServer
                 }
                 catch (Exception ex)
                 {
-                    Form1.instance.AppendLog($"Error loading plugin from {file}: {ex.Message}", Color.Red);
+                    ServerConsole.instance.AppendLog($"Error loading plugin from {file}: {ex.Message}", Color.Red);
                 }
             }
         }
@@ -57,11 +57,11 @@ namespace DiscordBotServer
             {
                 try
                 {
-                    plugin.Dispose(Form1.instance._client);
+                    plugin.Dispose(ServerConsole.instance._client);
                 }
                 catch (Exception ex)
                 {
-                    Form1.instance.AppendLog($"Error disposing plugin: {ex.Message}", Color.Red);
+                    ServerConsole.instance.AppendLog($"Error disposing plugin: {ex.Message}", Color.Red);
                 }
             }
             _plugins.Clear();
@@ -83,20 +83,20 @@ namespace DiscordBotServer
                         if (typeof(IPlugin).IsAssignableFrom(type) && !type.IsInterface && !type.IsAbstract)
                         {
                             var plugin = (IPlugin)Activator.CreateInstance(type);
-                            plugin.Initialize(Form1.instance._client);
+                            plugin.Initialize(ServerConsole.instance._client);
                             _plugins.Add(plugin);
                         }
                     }
-                    Form1.instance.AppendLog($"Plugin {pluginName} started successfully.", Color.Green);
+                    ServerConsole.instance.AppendLog($"Plugin {pluginName} started successfully.", Color.Green);
                 }
                 catch (Exception ex)
                 {
-                    Form1.instance.AppendLog($"Error starting plugin {pluginName}: {ex.Message}", Color.Red);
+                    ServerConsole.instance.AppendLog($"Error starting plugin {pluginName}: {ex.Message}", Color.Red);
                 }
             }
             else
             {
-                Form1.instance.AppendLog($"Plugin {pluginName}.dll not found in {_pluginsPath}", Color.Red);
+                ServerConsole.instance.AppendLog($"Plugin {pluginName}.dll not found in {_pluginsPath}", Color.Red);
             }
         }
 
@@ -108,25 +108,25 @@ namespace DiscordBotServer
             {
                 try
                 {
-                    plugin.Dispose(Form1.instance._client);
+                    plugin.Dispose(ServerConsole.instance._client);
                     _plugins.Remove(plugin);
-                    Form1.instance.AppendLog($"Plugin {pluginName} stopped successfully.", Color.Green);
+                    ServerConsole.instance.AppendLog($"Plugin {pluginName} stopped successfully.", Color.Green);
                 }
                 catch (Exception ex)
                 {
-                    Form1.instance.AppendLog($"Error stopping plugin {pluginName}: {ex.Message}", Color.Red);
+                    ServerConsole.instance.AppendLog($"Error stopping plugin {pluginName}: {ex.Message}", Color.Red);
                 }
             }
             else
             {
-                Form1.instance.AppendLog($"Plugin {pluginName} is not currently loaded.", Color.Red);
+                ServerConsole.instance.AppendLog($"Plugin {pluginName} is not currently loaded.", Color.Red);
             }
         }
 
         private async void RegisterSlashCommands(List<SlashCommandProperties> returnCommands, DiscordSocketClient client)
         {
             await Task.Delay(4000);
-            Form1.instance.AppendLog($"Registering Commands", Color.DarkPurple);
+            ServerConsole.instance.AppendLog($"Registering Commands", Color.DarkPurple);
             await Task.Delay(1000);
 
             try
@@ -135,13 +135,13 @@ namespace DiscordBotServer
                 foreach (var command in returnCommands)
                 {
                     i++;
-                    Form1.instance.AppendLog($"[{i}/{returnCommands.Count}] Command Registered: {command.Name}", Color.Purple);
+                    ServerConsole.instance.AppendLog($"[{i}/{returnCommands.Count}] Command Registered: {command.Name}", Color.Purple);
                     await client.CreateGlobalApplicationCommandAsync(command);
                 }
             }
             catch (Exception ex)
             {
-                Form1.instance.AppendLog($"Error registering global slash commands: {ex.Message}", Color.Red);
+                ServerConsole.instance.AppendLog($"Error registering global slash commands: {ex.Message}", Color.Red);
             }
         }
 

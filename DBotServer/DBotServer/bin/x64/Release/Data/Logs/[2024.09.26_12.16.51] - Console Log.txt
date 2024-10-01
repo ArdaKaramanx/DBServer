@@ -1,0 +1,6 @@
+[26.09.2024 12:06:51] 12:06:51 Discord     Discord.Net v3.16.0 (API v10)
+[26.09.2024 12:06:52] 12:06:51 Gateway     Connecting
+[26.09.2024 12:06:53] 12:06:53 Gateway     You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+[26.09.2024 12:06:53] 12:06:53 Gateway     Connected
+[26.09.2024 12:06:53] Bot is connected!
+[26.09.2024 12:06:53] 12:06:53 Gateway     Ready

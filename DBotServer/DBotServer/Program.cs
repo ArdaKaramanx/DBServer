@@ -35,13 +35,13 @@ namespace DiscordBotServer
             };
 
             bool createdNew;
-            using (Mutex mutex = new Mutex(true, "DBotServer", out createdNew))
+            using (Mutex mutex = new Mutex(true, "DSBUpdater", out createdNew))
             {
                 if (createdNew)
                 {
                     Application.EnableVisualStyles();
                     Application.SetCompatibleTextRenderingDefault(false);
-                    Application.Run(new UpdaterForm());
+                    Application.Run(new ServerConsole());
                 }
                 else
                 {
