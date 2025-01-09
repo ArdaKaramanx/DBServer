@@ -403,5 +403,10 @@ namespace DiscordBotServer
                 this.Hide();
             }
         }
+
+        private void ServerConsole_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -91,4 +91,4 @@ C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\S
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\System.Threading.Tasks.Extensions.xml
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\System.ValueTuple.xml
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\obj\Release\IPlugin.csproj.Up2Date
-C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\DiscordBotServer.dll
+C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\IPlugin\bin\Release\DiscordBotServer.exe

@@ -98,7 +98,6 @@ C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Re
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordBotServer.csproj.CoreCompileInputs.cache
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordB.5906C81B.Up2Date
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordBotServer.pdb
-C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\bin\x64\Release\DiscordBotServer.dll
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\bin\x64\Release\DiscordBotServer.exe.config
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\bin\x64\Release\DiscordBotServer.exe
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordBotServer.exe
