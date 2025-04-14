@@ -57,7 +57,9 @@ namespace DiscordBotServer
 
             var config = new DiscordSocketConfig
             {
-                GatewayIntents = GatewayIntents.AllUnprivileged & ~GatewayIntents.GuildInvites // "GuildInvites" intent'ini kaldırıyoruz
+                GatewayIntents = GatewayIntents.AllUnprivileged
+                                 & ~GatewayIntents.GuildInvites
+                                 & ~GatewayIntents.GuildScheduledEvents // "GuildScheduledEvents" intent'ini kaldırıyoruz
             };
 
             _client = new DiscordSocketClient(config);
@@ -75,6 +77,7 @@ namespace DiscordBotServer
                 string configJson = File.ReadAllText(configFilePath);
                 var botConfig = JsonConvert.DeserializeObject<BotConfig>(configJson);
                 string token = botConfig.DiscordBotToken;
+                bool allCommandRemove = botConfig.AllCommandRemove;
 
                 if (string.IsNullOrEmpty(token))
                 {
@@ -97,7 +100,10 @@ namespace DiscordBotServer
                         notifyIcon1.Icon = activeIcon;
 
                         // Tüm global komutları sil
-                        await _client.Rest.DeleteAllGlobalCommandsAsync();
+                        if (allCommandRemove)
+                        {
+                            await _client.Rest.DeleteAllGlobalCommandsAsync(); 
+                        }
                     }
                     catch (Exception ex)
                     {
@@ -366,8 +372,10 @@ namespace DiscordBotServer
             }
         }
 
-        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        private async void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            await StopBotAsync();
+            await Task.Delay(1000);
             Application.Exit();
         }
 
@@ -406,7 +414,7 @@ namespace DiscordBotServer
 
         private void ServerConsole_Load(object sender, EventArgs e)
         {
-
+            //Load Panel
         }
     }
 }

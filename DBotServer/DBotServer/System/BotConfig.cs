@@ -10,5 +10,6 @@ namespace DiscordBotServer
     {
         public string DiscordBotToken { get; set; }
         public int LogIntervalSeconds { get; set; } // Log aralık süresi (saniye)
+        public bool AllCommandRemove {  get; set; }
     }
 }

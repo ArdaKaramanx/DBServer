@@ -91,7 +91,6 @@ C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\bin\x64\Re
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\bin\x64\Release\System.Reactive.xml
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\bin\x64\Release\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\bin\x64\Release\System.Threading.Tasks.Extensions.xml
-C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\bin\x64\Release\System.ValueTuple.xml
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordBotServer.csproj.AssemblyReference.cache
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordBotServer.Properties.Resources.resources
 C:\Users\Arda Karaman\Documents\GitHub\DBServer\DBotServer\DBotServer\obj\x64\Release\DiscordBotServer.csproj.GenerateResource.cache
