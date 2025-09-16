@@ -3,23 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\akove\\Documents\\GitHub\\DBServer\\DBotServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|C:\\Users\\akove\\Documents\\GitHub\\DBServer\\DBotServer\\dbotserver\\serverconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|solutionrelative:dbotserver\\serverconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|C:\\Users\\akove\\Documents\\GitHub\\DBServer\\DBotServer\\dbotserver\\system\\botconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|solutionrelative:dbotserver\\system\\botconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|c:\\users\\akove\\documents\\github\\dbserver\\dbotserver\\dbotserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|solutionrelative:dbotserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|C:\\Users\\akove\\Documents\\GitHub\\DBServer\\DBotServer\\dbotserver\\pluginloader\\pluginloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|solutionrelative:dbotserver\\pluginloader\\pluginloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|C:\\Users\\akove\\Documents\\GitHub\\DBServer\\DBotServer\\dbotserver\\serverconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|solutionrelative:dbotserver\\serverconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|c:\\users\\akove\\documents\\github\\dbserver\\dbotserver\\dbotserver\\serverconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|solutionrelative:dbotserver\\serverconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arda Karaman\\Documents\\GitHub\\DBServer\\PluginCreating\\CommandPlugin\\Command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|C:\\Users\\akove\\Documents\\GitHub\\DBServer\\DBotServer\\dbotserver\\serverconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C47B0DCF-1665-49DE-A052-AE1EF5A1F1B1}|DBotServer\\DiscordBotServer.csproj|solutionrelative:dbotserver\\serverconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,18 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Command.cs",
-              "DocumentMoniker": "C:\\Users\\Arda Karaman\\Documents\\GitHub\\DBServer\\PluginCreating\\CommandPlugin\\Command.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Arda Karaman\\Documents\\GitHub\\DBServer\\PluginCreating\\CommandPlugin\\Command.cs",
-              "ToolTip": "C:\\Users\\Arda Karaman\\Documents\\GitHub\\DBServer\\PluginCreating\\CommandPlugin\\Command.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Arda Karaman\\Documents\\GitHub\\DBServer\\PluginCreating\\CommandPlugin\\Command.cs",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akove\\Documents\\GitHub\\DBServer\\DBotServer\\DBotServer\\Program.cs",
+              "RelativeDocumentMoniker": "DBotServer\\Program.cs",
+              "ToolTip": "C:\\Users\\akove\\Documents\\GitHub\\DBServer\\DBotServer\\DBotServer\\Program.cs",
+              "RelativeToolTip": "DBotServer\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T08:15:51.251Z"
+              "WhenOpened": "2025-09-15T23:07:16.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -57,38 +56,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BotConfig.cs",
-              "DocumentMoniker": "C:\\Users\\akove\\Documents\\GitHub\\DBServer\\DBotServer\\DBotServer\\System\\BotConfig.cs",
-              "RelativeDocumentMoniker": "DBotServer\\System\\BotConfig.cs",
-              "ToolTip": "C:\\Users\\akove\\Documents\\GitHub\\DBServer\\DBotServer\\DBotServer\\System\\BotConfig.cs",
-              "RelativeToolTip": "DBotServer\\System\\BotConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T06:58:42.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "PluginLoader.cs",
               "DocumentMoniker": "C:\\Users\\akove\\Documents\\GitHub\\DBServer\\DBotServer\\DBotServer\\PluginLoader\\PluginLoader.cs",
               "RelativeDocumentMoniker": "DBotServer\\PluginLoader\\PluginLoader.cs",
               "ToolTip": "C:\\Users\\akove\\Documents\\GitHub\\DBServer\\DBotServer\\DBotServer\\PluginLoader\\PluginLoader.cs",
               "RelativeToolTip": "DBotServer\\PluginLoader\\PluginLoader.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAcwIEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAmwIEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T06:51:13.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ServerConsole.cs",
               "DocumentMoniker": "C:\\Users\\akove\\Documents\\GitHub\\DBServer\\DBotServer\\DBotServer\\ServerConsole.cs",
               "RelativeDocumentMoniker": "DBotServer\\ServerConsole.cs",
               "ToolTip": "C:\\Users\\akove\\Documents\\GitHub\\DBServer\\DBotServer\\DBotServer\\ServerConsole.cs",
               "RelativeToolTip": "DBotServer\\ServerConsole.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGYAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAIkBAAAAAAAAAAAqwKMBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T13:44:46.864Z",
               "EditorCaption": ""
